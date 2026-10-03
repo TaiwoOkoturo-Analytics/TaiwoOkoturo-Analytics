@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there I am Taiwo, 
+I work at the intersection of AI Governance, Change Management and Digital Transformation
+Helping organisations move from AI ambition to responsible implementation.My focus is on translating AI strategy and regulatory requirements into practical governance, Risk and change solutions.Drawing on frameworks such as The EU AI act and NIST AI Risk management framework.I develop practical solutions that help organisations establish effective AI governance, manage risk, navigate regulatory requirements and embed AI responsibly to realise sustainable business value.
 <!--
 **TaiwoOkoturo-Analytics/TaiwoOkoturo-Analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
